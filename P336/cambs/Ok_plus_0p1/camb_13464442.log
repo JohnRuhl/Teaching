@@ -1,0 +1,14 @@
+=============== CAMB Processing ===============
+
+ WARNING: nu_mass_degeneracies ignored when share_delta_neff
+Reion redshift       =  11.503
+Om_b h^2             =  0.022600
+Om_c h^2             =  0.112000
+Om_nu h^2            =  0.000640
+Om_darkenergy        =  0.623926
+Om_K                 =  0.100000
+Om_m (inc Om_u)      =  0.276000
+100 theta (CosmoMC)  =  0.903685
+N_eff (total)        =  3.046000
+ 1 nu, g= 1.0153 m_nu*c^2/k_B/T_nu0=    353.67 (m_nu=  0.060 eV)
+tau_recomb/Mpc       =  284.83  tau_now/Mpc =  14006.3
